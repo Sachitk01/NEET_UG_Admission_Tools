@@ -1,0 +1,6 @@
+# Ignore Jenkins home directory
+jenkins_home/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
